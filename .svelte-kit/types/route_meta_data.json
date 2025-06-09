@@ -1,0 +1,15 @@
+{
+	"/": [
+		"src/routes/+page.server.js"
+	],
+	"/admin/dashboard": [
+		"src/routes/admin/dashboard/+page.server.js"
+	],
+	"/admin/login": [],
+	"/api/login": [
+		"src/routes/api/login/+server.js"
+	],
+	"/api/logout": [
+		"src/routes/api/logout/+server.js"
+	]
+}
